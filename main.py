@@ -4,7 +4,7 @@ import threading
 import server_status
 
 HOST = "0.0.0.0"
-PORT = 5000
+PORT = 5001
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})

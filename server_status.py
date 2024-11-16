@@ -9,7 +9,6 @@ servers = {
         ("bhop.steam-gamers.net", 27015),
         ("surf.steam-gamers.net", 27015),
     ],
-    "VRising": [("135.148.3.9", 9877)],
 }
 
 # Global variable to store server info cache
